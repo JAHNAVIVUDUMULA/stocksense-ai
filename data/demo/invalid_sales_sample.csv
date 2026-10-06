@@ -1,0 +1,4 @@
+sku,product_name,date,quantity,price
+NON_EXISTENT_SKU_999,Unknown Item,2026-10-03,5,19.99
+MOU-WL-001,Wireless Ergonomic Mouse,invalid-date-format,-10,29.99
+KB-RGB-002,RGB Mechanical Keyboard,2026-10-03,0,89.99
